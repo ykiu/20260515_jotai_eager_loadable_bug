@@ -1,0 +1,18 @@
+{
+  "name": "jotai-eager-loadable-bug",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "jotai": "^2.12.4",
+    "jotai-eager": "^0.2.4"
+  },
+  "devDependencies": {
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "vitest": "^4.1.2"
+  }
+}
