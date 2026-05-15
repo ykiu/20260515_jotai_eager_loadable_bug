@@ -7,7 +7,7 @@
     "test": "vitest run"
   },
   "dependencies": {
-    "jotai": "^2.12.4",
+    "jotai": "^2.20.0",
     "jotai-eager": "^0.2.4"
   },
   "devDependencies": {
